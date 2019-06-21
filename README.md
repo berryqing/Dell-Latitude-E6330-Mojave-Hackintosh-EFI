@@ -9,7 +9,7 @@ Known issues:
 
 I've also included the decompiled droptables from origin.  Of course, with laptops, it's ALWAYS recommended to do this yourself because even two of the exact same laptop might have different tables.  Use them at your own risk... they're mostly here for my own use.
 
-Laptop specs:
+**Laptop specs:**
 
 Dell Latitude E6330
 
@@ -25,7 +25,8 @@ Broadcom BCM94352HMB
 
 
 
-Working:
+**Working:**
+
 WiFi (Up to 250mbps Up and Down)
 
 Bluetooth
