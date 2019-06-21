@@ -45,6 +45,4 @@ SSD Trim
 
 Lid Close to Turn Off Screen
 
-Sleep (semi-working)
 
-Battery Indicator (semi-working)
